@@ -11,7 +11,7 @@ This project aims to predict diabetes using various machine learning models. The
 Feature engineering techniques were applied to improve model performance.
 
 ## Dataset
-The dataset used is `diabetes.csv`, containing the following features:
+The dataset used is `https://www.kaggle.com/datasets/mathchi/diabetes-data-set`, containing the following features:
 - **Pregnancies**: Number of times pregnant
 - **Glucose**: Plasma glucose concentration
 - **BloodPressure**: Diastolic blood pressure (mm Hg)
